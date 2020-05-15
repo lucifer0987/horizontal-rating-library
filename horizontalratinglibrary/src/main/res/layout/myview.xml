@@ -65,7 +65,7 @@
         android:layout_alignBottom="@id/overall_rating"
         android:id="@+id/txt_review2"
         android:layout_marginBottom="18dp"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/colorRating"
         android:textSize="16sp"/>
 
     <TextView
@@ -78,7 +78,7 @@
         android:layout_toStartOf="@id/txt_review2"
         android:layout_alignTop="@id/txt_review2"
         android:layout_alignBottom="@id/txt_review2"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/colorRating"
         android:textSize="16sp"/>
 
     <LinearLayout
@@ -129,7 +129,7 @@
                     android:layout_weight="80"
                     android:id="@+id/five_star_rating_active"
                     android:layout_height="8dp"
-                    android:background="@color/colorPrimary" />
+                    android:background="@color/colorRating" />
 
                 <View
                     android:layout_width="0dp"
@@ -194,7 +194,7 @@
                     android:layout_weight="50"
                     android:id="@+id/four_star_rating_active"
                     android:layout_height="8dp"
-                    android:background="@color/colorPrimary" />
+                    android:background="@color/colorRating" />
 
                 <View
                     android:layout_width="0dp"
@@ -259,7 +259,7 @@
                     android:layout_weight="50"
                     android:id="@+id/three_star_rating_active"
                     android:layout_height="8dp"
-                    android:background="@color/colorPrimary" />
+                    android:background="@color/colorRating" />
 
                 <View
                     android:layout_width="0dp"
@@ -324,7 +324,7 @@
                     android:layout_weight="50"
                     android:id="@+id/two_star_rating_active"
                     android:layout_height="8dp"
-                    android:background="@color/colorPrimary" />
+                    android:background="@color/colorRating" />
 
                 <View
                     android:layout_width="0dp"
@@ -389,7 +389,7 @@
                     android:layout_weight="50"
                     android:id="@+id/one_star_rating_active"
                     android:layout_height="8dp"
-                    android:background="@color/colorPrimary" />
+                    android:background="@color/colorRating" />
 
                 <View
                     android:layout_width="0dp"

@@ -1,6 +1,7 @@
 package com.example.android.horizontalratinglibrary;
 
 import android.content.Context;
+import android.graphics.Color;
 import android.util.AttributeSet;
 import android.view.View;
 import android.widget.LinearLayout;
@@ -33,6 +34,10 @@ public class horizontalRatingLibrary extends RelativeLayout {
 
     public void setData(int one, int two, int three, int four, int five, int review_no){
         ratingChart(one, two, three, four, five, review_no);
+    }
+
+    public void setColor(int color){
+
     }
 
     private void ratingChart(int one, int two, int three, int four, int five, int review){

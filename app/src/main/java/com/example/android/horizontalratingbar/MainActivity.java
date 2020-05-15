@@ -2,6 +2,7 @@ package com.example.android.horizontalratingbar;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.graphics.Color;
 import android.os.Bundle;
 
 import com.example.android.horizontalratinglibrary.horizontalRatingLibrary;
