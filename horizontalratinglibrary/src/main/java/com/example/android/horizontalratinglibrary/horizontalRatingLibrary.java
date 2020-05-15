@@ -36,10 +36,6 @@ public class horizontalRatingLibrary extends RelativeLayout {
         ratingChart(one, two, three, four, five, review_no);
     }
 
-    public void setColor(int color){
-
-    }
-
     private void ratingChart(int one, int two, int three, int four, int five, int review){
         int no_rating_int = one + two + three + four + five,
                 no_review_int = review,
