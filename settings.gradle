@@ -1,0 +1,3 @@
+rootProject.name='horizontalRatingBar'
+include ':app'
+include ':horizontalratinglibrary'
