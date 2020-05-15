@@ -38,7 +38,7 @@ JAVA file:
         horizontalratinglibrary.setTitle("Ratings Bar");
 ```
 
-```setData()``` takes six arguments of integer type.
+```setData()``` takes six arguments of integer type.  
 ```set Data(number of one star, number of two star, number of three star, number of four star, number of five star, number of reviews)```
 
 Color of the rating chart:
