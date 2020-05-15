@@ -21,6 +21,8 @@ Step 2. Add the dependency
 	        implementation 'com.github.lucifer0987:horizontal-rating-library:0.1.0'
 	}
  
+#### Example:
+
 
 #### Usage:
 XML file:
