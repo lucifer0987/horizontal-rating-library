@@ -22,6 +22,7 @@ Step 2. Add the dependency
 	}
  
 #### Example:
+![Preview](preview.jpg)
 
 
 #### Usage:
