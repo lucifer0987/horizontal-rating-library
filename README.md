@@ -41,11 +41,11 @@ JAVA file:
 ```setData()``` takes six arguments of integer type.  
 ```set Data(number of one star, number of two star, number of three star, number of four star, number of five star, number of reviews)```
 
-Color of the rating chart:
-By default, it uses the primary color of the project.
+Color of the rating chart:  
+By default, it uses the primary color of the project.  
 
-But, if you want to change it, you can do by specifying the color in your ```colors.xml```
+But, if you want to change it, you can do by specifying the color in your ```colors.xml```  
 ```<color name="colorRating">#FFB300</color>```
 
-don't forget to star the repo, if you find this useful.
+don't forget to star the repo, if you find this useful.  
 Keep supporting!!
